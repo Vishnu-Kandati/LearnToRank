@@ -1,5 +1,6 @@
 # LearnToRank
 ## Data collection and preprocessing
+![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/dataprep.png)
 ### 1. Crawler
    Web Crawler is used to crawl the World Wide Web and extract webpages automatically similar to the query. We have build two types of crawler
 1. BFS crawler
@@ -25,6 +26,7 @@
 |q1|d5|0|
 
 ## Model building
+![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/engine.png)
 ### 1. Bag-of-Words model
    Give the document corpus, bag-of-word model was generated using gensium package. Bag-of-Word model is one form of converting text to vector representation for a document. ```A value 1 in vector represents present of a term and 0 represents absence of a word```.
    
