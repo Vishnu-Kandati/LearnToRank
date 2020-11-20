@@ -8,3 +8,4 @@ class ReturnTokens(object):
         for file_name in os.listdir(self.dir_path):
             for sentence in open(os.path.join(self.dir_path, file_name)):
                 yield simple_preprocess(sentence)
+
