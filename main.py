@@ -29,3 +29,5 @@ modelTrainer = Trainer(NN,optimizer,criterion,device="cuda")
 testOutput, validationOutput = modelTrainer.fit(trainLoader,validLoader,testLoader,1000,10)
 save(modelTrainer.model.state_dict(),PATH+"MLP")
 
+
+
