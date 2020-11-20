@@ -13,3 +13,4 @@ class TfIdfConverter(object):
         return self.tfidf
     def transform(self,BOW):
         return self.tfidf[BOW]
+
