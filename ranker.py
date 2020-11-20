@@ -23,3 +23,4 @@ if __name__ == "__main__":
     searchEngine = Ranker("home/Document/sem9/IR/Lab3","home/Document/sem9/IR/Lab3/document")
     query = input("Enter input query:")
     searchEngine.getRelaventDocuments(query)
+
