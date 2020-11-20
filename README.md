@@ -64,6 +64,11 @@
    LSI was designed to help searchers find what they're looking for, not just what they searched for.
 
 ### 4. Deep Neural Network
+   Neural Network models are usually termed as universal approximators which can be used for classifying documents as relavent or non-relavent with respect to
+   the query. An example for simple neural network is as follows.
+   
+   ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/NN.jpeg)
+   
 ## Evaluation metrics
 ### F1-Score plot
 ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/f1_plot.png)
