@@ -42,7 +42,7 @@
    formula used: tf-idf(d, t) = tf(t) * idf(d, t)
    ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/Data.png)
 
-   Count Vectorizer
+   ### Count Vectorizer
 
    | doc/term  | blue | bright|sky|sun|
 
@@ -50,7 +50,7 @@
 
 | d2 | 0  | 1  | 0  |  1 |
 
-   TF-IDF Vectorizer
+   ### TF-IDF Vectorizer
    
    | doc/term  | blue | bright|sky|sun|
 
