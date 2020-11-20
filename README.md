@@ -46,14 +46,19 @@
 
     | doc/term  | blue | bright|sky|sun|
 | -- | -- | -- | -- | -- | -- |
+
 | d1 | 1  | 0  | 1  | 0  |
+
 | d2 | 0  | 1  | 0  |  1 |
 
    TF-IDF Vectorizer
    
    | doc/term  | blue | bright|sky|sun|
+
 | -- | -- | -- | -- | -- | -- |
+
 | d1  | 0.70107 | 0.00 | 0.707107| 0.00 |
+
 | d2| 0.00 | 0.707107 | 0| 0.707107 |
 
 ### 3. Latent Semantic Indexing
