@@ -12,3 +12,4 @@ class vectorizer():
         return self.LSI[tfidf]
 
 
+
