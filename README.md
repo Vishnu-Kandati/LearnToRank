@@ -42,18 +42,21 @@
    formula used: tf-idf(d, t) = tf(t) * idf(d, t)
    ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/Data.png)
    Count Vectorizer
+
     | doc/term  | blue | bright|sky|sun|
 | -- | -- | -- | -- | -- | -- |
 | d1  | 1  | 0 | 1 | 0 |
 | d2| 0 | 1 | 0| 1|
 
    TF-IDF Vectorizer
+   
     | doc/term  | blue | bright|sky|sun|
 | -- | -- | -- | -- | -- | -- |
 | d1  | 0.70107 | 0.00 | 0.707107| 0.00 |
 | d2| 0.00 | 0.707107 | 0| 0.707107 |
 
 ### 3. Latent Semantic Indexing
+
    Latent semantic indexing (LSI) is a concept used by search engines to discover how a term and content work together to mean the same thing, even if they do not share keywords or synonyms. 
    It is used to improve the accuracy of information retrieval
    It uses a singular value decomposition technique to scan unstructured data within documents and identify relationships between the concepts.
