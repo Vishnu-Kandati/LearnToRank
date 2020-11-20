@@ -57,3 +57,4 @@ class Trainer():
                 testMetric[epoch]=[1,b,c,d]
         return testMetric,validMetric
 
+
