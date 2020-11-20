@@ -15,3 +15,4 @@ class MLP(Module):
         out = self.outlayer(x1-x2)
         return out
 
+
