@@ -39,4 +39,12 @@
 ### 2. Tf-IDF vectorizer
 ### 3. Latent Semantic Indexing
 ### 4. Deep Neural Network
-
+## Evaluation metrics
+### F1-Score plot
+![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/f1_plot.png)
+### Loss plot
+![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/loss_plot.png)
+### Precision plot
+![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/precision_plot.png)
+### Recall plot
+![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/recall_plot.png)
