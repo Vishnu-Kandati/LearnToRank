@@ -3,6 +3,12 @@
 Learning to Rank is the application of machine learning, typically supervised, semi-supervised or reinforcement learning, in the construction of ranking models for information 
 retrieval systems.
 
+## Approachs
+
+1. Pairwise
+2. Pointwise
+3. Listwise
+
 ## Data collection and preprocessing
 ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/dataprep.png)
 ### 1. Crawler
