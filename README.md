@@ -1,3 +1,8 @@
+## Team Members
+
+Kandati VishnuSai(16PT12)
+Midhilesh E(16PT17)
+
 # Learning to Rank
 
 Learning to Rank is the application of machine learning, typically supervised, semi-supervised or reinforcement learning, in the construction of ranking models for information 
