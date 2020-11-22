@@ -82,7 +82,6 @@
    **Ranknet Architecture (pictorial representation)**
    ![alt_text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/Screenshot%20from%202020-11-22%2014-09-01.png)
    
-   [RankNet:Learning to Rank using Gradient Descent (ICML 2015)](https://www.microsoft.com/en-us/research/blog/ranknet-a-ranking-retrospective/)
    
    **Loss function** -> **binary cross entropy** function
    
@@ -97,3 +96,7 @@
 ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/precision_plot.png)
 ### Recall plot
 ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/recall_plot.png)
+
+# Paper refered
+1. [RankNet:Learning to Rank using Gradient Descent (ICML 2015)](https://www.microsoft.com/en-us/research/blog/ranknet-a-ranking-retrospective/)
+2. [DSSM: Learning semantic representations using convolutional neural networks for web search (ACM 2015)](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf)
