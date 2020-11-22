@@ -39,7 +39,9 @@
 ### 2. Tf-IDF vectorizer
    TF-IDF is an abbreviation for Term Frequency Inverse Document Frequency. 
    This is very common algorithm to transform text into a meaningful representation of numbers which is used to fit machine algorithm for prediction.
+   
    formula used: tf-idf(d, t) = tf(t) * idf(d, t)
+   
    ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/Data.png)
 
    ### Count Vectorizer
@@ -58,10 +60,10 @@
 
 ### 3. Latent Semantic Indexing
 
-   Latent semantic indexing (LSI) is a concept used by search engines to discover how a term and content work together to mean the same thing, even if they do not share keywords or synonyms. 
-   It is used to improve the accuracy of information retrieval
-   It uses a singular value decomposition technique to scan unstructured data within documents and identify relationships between the concepts.
-   LSI was designed to help searchers find what they're looking for, not just what they searched for.
+   1. Latent semantic indexing (LSI) is a concept used by search engines to discover how a term and content work together to mean the same thing, even if they do not share keywords or synonyms. 
+   2. It is used to improve the accuracy of information retrieval
+   3. It uses a singular value decomposition technique to scan unstructured data within documents and identify relationships between the concepts.
+   4. LSI was designed to help searchers find what they're looking for, not just what they searched for.
 
 ### 4. Deep Neural Network
    Neural Network models are usually termed as universal approximators which can be used for classifying documents as relavent or non-relavent with respect to
