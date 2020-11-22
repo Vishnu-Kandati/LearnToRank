@@ -44,14 +44,14 @@
    
    ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/Data.png)
 
-   ### Count Vectorizer
+   **Count Vectorizer**
 
    | doc/term  | blue | bright|sky|sun|
    | -- | -- | -- | -- | -- |
    | d1 | 1  | 0  | 1  | 0  |
    | d2 | 0  | 1  | 0  |  1 |
 
-   ### TF-IDF Vectorizer
+   **TF-IDF Vectorizer**
    
    | doc/term  | blue | bright|sky|sun|
    | -- | -- | -- | -- | -- |
@@ -72,6 +72,18 @@
    the query. An example for simple neural network is as follows.
    
    ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/NN.jpeg)
+   
+   Here we will be using two neural network which shares same parameters to project the query and documents in low dimensional space. The following describes the
+   characteristics of the low dimensional space.
+   
+   1. Documents and query which are related are present close together.
+   2. Documenst and query which are unrelated are present far apart.
+   
+   **Pictorial Representation**
+   
+   **Loss function** -> **binary cross entropy** function
+   
+   **Optimizer** -> **Adams optimizer** with **learning rate = 0.003**.
    
 ## Evaluation metrics
 ### F1-Score plot
