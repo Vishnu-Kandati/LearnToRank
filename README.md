@@ -3,11 +3,11 @@
 ![alt text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/dataprep.png)
 ### 1. Crawler
    Web Crawler is used to crawl the World Wide Web and extract webpages automatically similar to the query. We have build two types of crawler
-1. BFS crawler
+1. **BFS crawler**
 
     BFs crawler uses breadth wise search over the WWW graph given the start node.
   
-2. Focused crawler
+2. **Focused crawler**
 
     Focused crawler uses relavance between the document and query and crawls the page if it's relavance score is greater than a threshold (user given)
 ### 2. Indexing
