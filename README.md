@@ -25,7 +25,7 @@ retrieval systems.
    inverted indexing which contains dictonary and posting list```. The posting list contains both the document ID and the frequency of occurence of a term in the
    document.
 ### 3. Data Creation
-   Since we are using pairwise learn-to-rank paradim, we generated an artifical dataframe which contains the relavant and non-relavent documents for a query. The dataframe looks like below, where 1 - relavent, 0 - non relavent.
+   Since we are using pairwise learning-to-rank paradigm, we generated an artifical dataframe which contains the relavant and non-relavent documents for a query. The dataframe looks like below, where 1 - relavent, 0 - non relavent.
    
 | Query  | Document | Target|
 | -----| ---------|---------|
