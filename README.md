@@ -67,6 +67,8 @@
    3. It uses a singular value decomposition technique to scan unstructured data within documents and identify relationships between the concepts.
    4. LSI was designed to help searchers find what they're looking for, not just what they searched for.
    
+   (**Since we had 6 different subtopics in artificial intelligence, we reduced to dimensions to 6 (i.e k=6)**)
+   
 ### 4. Deep Neural Network
    Neural Network models are usually termed as universal approximators which can be used for classifying documents as relavent or non-relavent with respect to
    the query. An example for simple neural network is as follows.
