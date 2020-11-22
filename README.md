@@ -79,7 +79,10 @@
    1. Documents and query which are related are present close together.
    2. Documenst and query which are unrelated are present far apart.
    
-   **Pictorial Representation**
+   **Ranknet Architecture (pictorial representation)**
+   ![alt_text](https://github.com/Midhilesh29/LearnToRank/blob/main/img/Screenshot%20from%202020-11-22%2014-09-01.png)
+   
+   [RankNet:Learning to Rank using Gradient Descent (ICML 2015)](https://www.microsoft.com/en-us/research/blog/ranknet-a-ranking-retrospective/)
    
    **Loss function** -> **binary cross entropy** function
    
