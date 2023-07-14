@@ -1,8 +1,8 @@
 ## Team Members
 
-Kandati VishnuSai(16PT12)
+Kandati VishnuSai
 
-Midhilesh E(16PT17)
+Midhilesh E
 
 # Learning to Rank
 
